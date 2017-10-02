@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>2377585869</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\library\inc\stm8s_beep.h</file>
+      <file>$PROJ_DIR$\library\inc\stm8s_i2c.h</file>
+      <file>$PROJ_DIR$\Hstm8\stdlib.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\jlx12864.o</file>
+      <file>$PROJ_DIR$\library\inc\stm8s_itc.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm8s_it.__cstat.et</file>
+      <file>$PROJ_DIR$\library\inc\stm8s_wwdg.h</file>
+      <file>$PROJ_DIR$\library\inc\stm8s_spi.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\snake.pbi</file>
+      <file>$PROJ_DIR$\library\inc\stm8s_tim1.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\key.pbi</file>
+      <file>$PROJ_DIR$\library\inc\stm8s_tim2.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm8s_clk.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm8_interrupt_vector.pbi</file>
+      <file>$PROJ_DIR$\library\inc\stm8s_flash.h</file>
+      <file>$PROJ_DIR$\Device\KEY\key.h</file>
+      <file>$PROJ_DIR$\library\src\stm8s_clk.c</file>
+      <file>$PROJ_DIR$\library\inc\stm8s_gpio.h</file>
+      <file>$PROJ_DIR$\main.c</file>
+      <file>$PROJ_DIR$\library\inc\stm8s.h</file>
+      <file>$PROJ_DIR$\snake.c</file>
+      <file>$PROJ_DIR$\Device\KEY\key.c</file>
+      <file>$PROJ_DIR$\stm8s_it.c</file>
+      <file>$PROJ_DIR$\library\inc\stm8s_adc1.h</file>
+      <file>$PROJ_DIR$\library\inc\stm8s_tim4.h</file>
+      <file>$PROJ_DIR$\library\src\stm8s_exti.c</file>
+      <file>$PROJ_DIR$\library\src\stm8s_gpio.c</file>
+      <file>$PROJ_DIR$\library\inc\stm8s_clk.h</file>
+      <file>$PROJ_DIR$\library\src\stm8s_tim4.c</file>
+      <file>$PROJ_DIR$\Device\JLX12864\jlx12864.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm8s_gpio.__cstat.et</file>
+      <file>$TOOLKIT_DIR$\lib\dlstm8mmn.a</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+      <file>$PROJ_DIR$\stm8s_it.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\jlx12864.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm8s_clk.pbi</file>
+      <file>$PROJ_DIR$\stm8s_conf.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\key.__cstat.et</file>
+      <file>$PROJ_DIR$\stm8_interrupt_vector.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm8s_tim4.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm8s_tim4.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm8s_it.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm8s_tim4.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm8s_gpio.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\intrinsics.h</file>
+      <file>$PROJ_DIR$\library\inc\stm8s_exti.h</file>
+      <file>$PROJ_DIR$\library\inc\stm8s_uart1.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm8s_gpio.o</file>
+      <file>$PROJ_DIR$\library\inc\stm8s_awu.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\Game_snake.pbd</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\jlx12864.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm8_interrupt_vector.__cstat.et</file>
+      <file>$TOOLKIT_DIR$\lib\dbgstm8mmd.a</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm8s_clk.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm8s_exti.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\snake.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\snake.__cstat.et</file>
+      <file>$PROJ_DIR$\library\inc\stm8s_iwdg.h</file>
+      <file>$PROJ_DIR$\Debug\Exe\Game_snake.out</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.o</file>
+      <file>$PROJ_DIR$\Hstm8\iostm8s103.h</file>
+      <file>$TOOLKIT_DIR$\config\lnkstm8s103k3.icf</file>
+      <file>$PROJ_DIR$\snake.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\key.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm8s_it.pbi</file>
+      <file>$PROJ_DIR$\library\inc\stm8s_rst.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm8s_exti.pbi</file>
+      <file>$PROJ_DIR$\Debug\List\Game_snake.map</file>
+      <file>$PROJ_DIR$\Device\JLX12864\jlx12864.h</file>
+    </outputs>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 68 59</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\library\src\stm8s_clk.c</name>
+      <outputs>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 12</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 54</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 35</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 27 19 36 23 48 0 45 14 17 1 4 58 66 7 9 11 24 46 6 44</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 19 1 27 7 36 48 14 58 11 6 44 23 0 45 17 4 66 9 24 46</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\main.c</name>
+      <outputs>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 60</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 50</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 32</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 69 17 19 36 23 48 0 27 45 14 1 4 58 66 7 9 11 24 46 6 44 63 2 15 33 61</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 7 27 19 33 1 63 36 48 14 58 11 6 24 15 61 17 44 23 0 45 4 66 9 46 69 2</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\snake.c</name>
+      <outputs>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 56</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 57</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 8</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 63 19 36 23 48 0 27 45 14 17 1 4 58 66 7 9 11 24 46 6 44 2 69</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 24 44 19 69 17 0 66 23 45 4 9 46 2 36 48 27 14 1 58 7 11 6 63</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Device\KEY\key.c</name>
+      <outputs>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 64</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 37</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 10</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 15 24 19 36 23 48 0 27 45 14 17 1 4 58 66 7 9 11 46 6 44 63 2 69</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 19 63 1 27 7 24 36 48 14 58 11 6 17 44 23 0 45 4 66 9 46 69 15 2</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\stm8s_it.c</name>
+      <outputs>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 41</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 5</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 65</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 33 19 36 23 48 0 27 45 14 17 1 4 58 66 7 9 11 24 46 6 44 15 63 2 69</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 58 19 48 6 36 14 11 15 27 1 7 69 17 44 23 0 45 4 66 9 24 46 33 63 2</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\library\src\stm8s_exti.c</name>
+      <outputs>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 55</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 67</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 45 19 36 23 48 0 27 14 17 1 4 58 66 7 9 11 24 46 6 44</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 17 19 44 24 0 66 23 45 4 9 46 36 48 27 14 1 58 7 11 6</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\library\src\stm8s_gpio.c</name>
+      <outputs>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 47</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 30</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 43</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 17 19 36 23 48 0 27 45 14 1 4 58 66 7 9 11 24 46 6 44</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 24 19 44 17 0 66 23 45 4 9 46 36 48 27 14 1 58 7 11 6</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\library\src\stm8s_tim4.c</name>
+      <outputs>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 40</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 42</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 39</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 24 19 36 23 48 0 27 45 14 17 1 4 58 66 7 9 11 46 6 44</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 1 19 27 7 36 48 14 58 11 6 44 23 0 45 17 4 66 9 24 46</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Device\JLX12864\jlx12864.c</name>
+      <outputs>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 3</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 34</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 51</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 69 17 19 36 23 48 0 27 45 14 1 4 58 66 7 9 11 24 46 6 44</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 19 1 17 27 7 36 48 14 58 11 6 44 23 0 45 4 66 9 24 46 69</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\stm8_interrupt_vector.c</name>
+      <outputs>
+        <tool>
+          <name>__cstat</name>
+          <file> 52</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 13</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 33 19 36 23 48 0 27 45 14 17 1 4 58 66 7 9 11 24 46 6 44</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 23 46 4 45 9 19 44 0 17 66 24 36 48 27 14 1 58 7 11 6 33</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\Game_snake.out</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 68</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 62 3 64 60 56 12 55 47 41 40 31 53</file>
+        </tool>
+      </inputs>
+    </file>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\stm8_interrupt_vector.c</name>
+      <tool>ICCSTM8</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\library\src\stm8s_clk.c</name>
+      <tool>C-STAT</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\main.c</name>
+      <tool>C-STAT</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\snake.c</name>
+      <tool>C-STAT</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\Device\KEY\key.c</name>
+      <tool>C-STAT</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\stm8s_it.c</name>
+      <tool>C-STAT</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\library\src\stm8s_gpio.c</name>
+      <tool>C-STAT</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\library\src\stm8s_tim4.c</name>
+      <tool>C-STAT</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\Device\JLX12864\jlx12864.c</name>
+      <tool>C-STAT</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\stm8_interrupt_vector.c</name>
+      <tool>C-STAT</tool>
+    </forcedrebuild>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>ILINK</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+

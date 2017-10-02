@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<userOverrides>
+  <override>
+    <path>C:\Users\acer-pc\Desktop\iar stm8 project\Device\JLX12864\jlx12864.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>C:\Users\acer-pc\Desktop\iar stm8 project\main.c</path>
+    <encoding>System</encoding>
+  </override>
+</userOverrides>
+
+
