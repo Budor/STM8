@@ -1,22 +1,18 @@
-"E:\IEEE\STM8\测转速\main.c"
+"C:\Users\acer-pc\Desktop\接收显示\软件\tm1668.c"
 -std=c99
 -ferror-limit=100
 -I
-E:\IEEE\STM8\测转速\include
+C:\Users\acer-pc\Desktop\接收显示\软件
 -I
-E:\IEEE\STM8\测转速\Stm8s_Lib\stm8lib\inc
--I
-E:\IEEE\STM8\测转速\Stm8s_Lib
+C:\Users\acer-pc\Desktop\接收显示\软件\Stm8sComFile
 -I
 D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\stm8\inc
 -I
 D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\stm8\inc\c
 -I
-E:\IEEE\STM8\测转速\include
+C:\Users\acer-pc\Desktop\接收显示\软件
 -I
-E:\IEEE\STM8\测转速\Stm8s_Lib\stm8lib\inc
--I
-E:\IEEE\STM8\测转速\Stm8s_Lib
+C:\Users\acer-pc\Desktop\接收显示\软件\Stm8sComFile
 -DSTM8S103=1
 -D__CHAR_BITS__=8
 -D__CHAR_MAX__=0xff

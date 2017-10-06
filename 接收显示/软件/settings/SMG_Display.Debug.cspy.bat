@@ -25,7 +25,7 @@ if not "%~1" == "" goto debugFile
 
 @echo on 
 
-"D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\common\bin\cspybat" -f "E:\IEEE\STM8\测转速\settings\testDemo.Debug.general.xcl" --backend -f "E:\IEEE\STM8\测转速\settings\testDemo.Debug.driver.xcl" 
+"D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\common\bin\cspybat" -f "C:\Users\acer-pc\Desktop\接收显示\软件\settings\SMG_Display.Debug.general.xcl" --backend -f "C:\Users\acer-pc\Desktop\接收显示\软件\settings\SMG_Display.Debug.driver.xcl" 
 
 @echo off 
 goto end 
@@ -34,7 +34,7 @@ goto end
 
 @echo on 
 
-"D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\common\bin\cspybat" -f "E:\IEEE\STM8\测转速\settings\testDemo.Debug.general.xcl" "--debug_file=%~1" --backend -f "E:\IEEE\STM8\测转速\settings\testDemo.Debug.driver.xcl" 
+"D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\common\bin\cspybat" -f "C:\Users\acer-pc\Desktop\接收显示\软件\settings\SMG_Display.Debug.general.xcl" "--debug_file=%~1" --backend -f "C:\Users\acer-pc\Desktop\接收显示\软件\settings\SMG_Display.Debug.driver.xcl" 
 
 @echo off 
 :end

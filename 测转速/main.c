@@ -16,7 +16,7 @@ int main( void ){
 	SPIInit();
 	xn297lInit();
 	Timer2Init();
-	sysClk_Init();
+	//sysClk_Init();
 	__enable_interrupt();
 	
 	
